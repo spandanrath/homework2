@@ -1,4 +1,9 @@
 <style>
+body {
+  font-family: "Lucidia Grande", sans-serif;
+  background-color: black;
+  color: white;
+}
 img{
   display: block;
   margin-left: auto;

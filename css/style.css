@@ -1,0 +1,69 @@
+<style>
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 525px;
+  height: auto;
+}
+#intro {
+  background-color: black;
+  min-height: 150px;
+  padding: 25px;
+  color: white;
+}
+#green{
+  background-color: green;
+  min-height: 150px;
+  padding: 40px;
+  color: white;
+}
+#blue{
+  background-color: blue;
+  min-height: 150px;
+  padding: 25px;
+  text-align: left;
+  color: white;
+}
+#yellow{
+  background-color: yellow;
+  min-height: 150px;
+  padding: 25px;
+  text-align: right;
+  color: black;
+  header text-shadow: 5px 5px 2px #c7e2c7;
+}
+#red{
+  background-color: red;
+  min-height: 150px;
+  padding: 25px;
+  text-align: right;
+  color: white;
+}
+body {
+  font-family: "Lucidia Grande", sans-serif;
+  background-color: black;
+  color: white;
+}
+p {
+  font-size: 24px;
+  padding-top: 20px;
+}
+h1 {
+  font-size: 64px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+h2 {
+  font-size: 30px;
+  text-shadow: 5px 5px 2px #808080;
+}
+footer {
+  text-align: right;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  background-color: black;
+  color: white;
+}
+</style>
